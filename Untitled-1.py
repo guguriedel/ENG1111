@@ -3,13 +3,15 @@ def falaAlgo(x):
 
 print(falaAlgo('luiz eh chato'))
 
-#Mas como add isso no GitHub?
+#Como mandar por GitHub?
 #git add .
 #git commit -m "Alterações"
-#git push .
-<<<<<<< HEAD
+#git push
 
-#Caso 2 pessoas estejam trabalhando ao mesmo tempo
-#git pool .
-=======
->>>>>>> 64169735fe78977ea91e3d1a83ce27cf7a80fae9
+#Se duas pessoas tiverem mexendo - 
+#git pool
+
+#Caso esteja dando ruim use:
+#git pull
+
+#Sempre deixe na mesma pasta e salve o aqruivo!
